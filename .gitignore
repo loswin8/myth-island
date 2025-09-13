@@ -1,0 +1,18 @@
+﻿# Roblox/Studio
+*.rbxl
+*.rbxl.lock
+*.rbxl.autosave
+*.rbxlx.lock
+*.rbxlx.~*
+*.rbxmx.lock
+*.rbxm.lock
+*.autosave
+*.tmp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs/build
+logs/
+build/
